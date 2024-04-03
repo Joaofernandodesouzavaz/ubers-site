@@ -1,0 +1,34 @@
+body{
+    color: black;
+    background-image: linear-gradient( 135deg, yellow, white, white, yellow);
+    font-size: 30px;
+    font-family: cursive;
+}
+
+header{
+    background-color: red;
+    text-align: center;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+.nome{
+    text-align: center;
+}
+
+.resto{
+    text-align: left;
+}
+
+footer{
+    text-align: center;
+}
+
+button{
+    border-radius: 150px;
+    background: black;
+    color: rgb(255, 255, 93);
+    border-color: yellow;
+    font-size: 120px;
+    font-family: cursive;
+}
